@@ -1,2 +1,2 @@
 # MeuTerceiroSite-
-3 tentativa porquê o primeiro foi de F
+terceira tentativa porquê o primeiro e o segundo foram de F
