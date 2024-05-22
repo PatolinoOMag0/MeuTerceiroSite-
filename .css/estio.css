@@ -1,0 +1,63 @@
+body{
+    background-image: url(../img/images.jpg);
+}
+header{
+    padding: 3%;
+}
+
+/* Classe Atribuída para a div que vai receber o logotipo */
+
+.logo{
+    
+}
+
+nav{
+
+}
+
+main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+
+}
+
+footer{
+    padding: 3%;
+}
+
+.cabecalho{
+    padding: 3%;
+}
+.rodape{
+    padding: 3%;
+}
+
+.titulos{
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+ul li{
+    line-height: 1.5;
+    font-size: 1.2em;
+}
+
+h1{
+    font-size: 2em;
+}
+h2{
+    font-size: 1.5em;
+}
+
+.logo img {
+
+}
