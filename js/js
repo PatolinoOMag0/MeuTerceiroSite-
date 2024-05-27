@@ -1,0 +1,4 @@
+function toggleMenu() {
+    var menuOptions = document.querySelector('.menu-options');
+    menuOptions.classList.toggle('active');
+}
