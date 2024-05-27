@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/bck.jpg);
+    background-image: url(../img/fnaf1.jpg);
     background-repeat: no-repeat;
     background-attachment: scroll ;
     background-size: cover ;
@@ -83,6 +83,7 @@ h2{
     text-decoration: none;
     padding: 0.8em;
     transition: background-color 0.3s ease;
+    size: 2em;
 }
 
 .menu-options.active {
