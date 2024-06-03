@@ -83,6 +83,9 @@ h2{
     text-decoration: none;
     padding: 0.8em;
     transition: background-color 0.3s ease;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu-options.active {
