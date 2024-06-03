@@ -96,7 +96,16 @@ p1{
     font-size: 1.5em;
     color: white;
 }
+
 img{
-    width: 100%;
-    height: 100%;
+    width: 50%; /* ou qualquer outro valor menor que 100% */
+    height: 50% /* Manter a proporção original da imagem */
+}
+#foxycorr {
+    width: 100%; /* ou qualquer outro valor menor que 100% */
+    height: auto; /* Manter a proporção original da imagem */
+}
+#foxyjmp {
+    width: 100%; /* ou qualquer outro valor menor que 100% */
+    height: auto; /* Manter a proporção original da imagem */
 }
