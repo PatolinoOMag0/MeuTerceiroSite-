@@ -1,5 +1,5 @@
 body{
-    background-image: url(../img/salaseg.png);
+    background-image: url(../img/palco2.webp);
     background-repeat: no-repeat;
     background-attachment: scroll ;
     background-size: cover ;
@@ -90,7 +90,19 @@ h2{
     display: block;
 }
 
+p1{
+    background-color: black;
+    line-height: 1.5;
+    font-size: 1.5em;
+    color: white;
+}
 img{
+    width: 100%;
+    height: 100%;
+}
+
+img2{
     align-items: center;
-    display: flex;
+    width: 80%;
+    height: 80%;
 }
